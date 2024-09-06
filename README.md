@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I am Kayra <h1>Hi there! <span class="wave">👋</span></h1>
 
 <!--
 **KayraYK/KayraYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
