@@ -12,9 +12,12 @@
 
 
 ## How to reach me: 📫
-<p align="left">
+<p align="left"><a href="https://www.w3schools.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="banner">
-</p>
+</a></p>
+
+
+
 <!--
 **KayraYK/KayraYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
