@@ -3,9 +3,16 @@
 <img src="https://github.com/user-attachments/assets/eccae978-f626-4ae2-9244-78e49ca11d5b" alt="banner">
   
 </p>
-<hr>
-## Hello, I am Kayra 👋
 
+<hr>
+
+##
+## Hello, I am Kayra 👋
+##
+
+##
+## How to reach me: 📫
+##
 
 
 
