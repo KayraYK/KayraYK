@@ -4,7 +4,7 @@
   
 </p>
 
-<hr>
+
 
 ##
 ## Hello, I am Kayra 👋
