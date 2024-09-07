@@ -1,11 +1,10 @@
-<!doctype html>
-<html>
-
+<p align=”center”>
 <img src=”https://github.com/user-attachments/assets/eccae978-f626-4ae2-9244-78e49ca11d5b" alt=”my banner”>
+</p>
 
 ## Hello, I am Kayra 👋
 
-</html>
+
 <!--
 **KayraYK/KayraYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
