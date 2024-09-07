@@ -13,7 +13,10 @@
 </a></p>
 
 ## Most used languages, tools, and technologies:
-<p align="left">
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={KayraYK}&theme=blue-green">
+</p>
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 <p>
