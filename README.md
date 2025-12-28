@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayraYK&theme=algolia&layout=compact">
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KayraYK&theme=algolia&layout=compact"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
